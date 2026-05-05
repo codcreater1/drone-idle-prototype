@@ -76,3 +76,10 @@ desktop.ini
 # IDE
 .idea/
 .vscode/
+
+# Nested copy that ended up here from the zip
+/DroneIdlePrototype/
+
+# Unity recovery folder
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
