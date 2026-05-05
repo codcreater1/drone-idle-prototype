@@ -40,7 +40,7 @@ If a build is provided in `Builds/Windows/`:
 
 ## What you should see
 
-- A flat 10x10 ground covered by a dark fog layer.
+- A flat 15x15 ground covered by a dark fog layer.
 - A small blue cube (the scout) on top.
 - Click on the ground to move it. Tiles in a small radius around the
   scout get cleared.
